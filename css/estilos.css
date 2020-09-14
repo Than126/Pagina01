@@ -369,8 +369,11 @@ footer p{
         width: 90%;
     }
     
-    .textos{
-        width:90%;
+    .textos>h1{
+        font-size: 40px;
+    }
+    .textos>h2{
+        font-size: 25px;
     }
     
     .caja-servicios{
