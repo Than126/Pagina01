@@ -381,6 +381,11 @@ footer p{
         margin-bottom: var(--margenes);
     }
     
+    .servicios img{
+        display: block;
+        margin: auto;
+    }
+    
     .cont-work{
         width: 85%;
     }
